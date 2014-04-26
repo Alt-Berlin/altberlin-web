@@ -103,6 +103,10 @@ a:focus {
     outline: 0;
 }
 
+.help-block {
+	color: #fff;
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -288,9 +292,9 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #28c3ab;
-    color: #28c3ab;
-    background-color: transparent;
+    border: 1px solid #000;
+    color: #000;
+    background-color: #fff;
 }
 
 .btn-default:hover,
