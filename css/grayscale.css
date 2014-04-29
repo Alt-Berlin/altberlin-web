@@ -288,15 +288,15 @@ a:focus {
 }
 
 .btn-primary {
-    border: 1px solid #000;
     color: #fff;
+	border-color: #6a588d;
     background-color: #6a588d;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    border: 1px solid #000;
     color: #fff;
+	border-color: #6a588d;
     background-color: #6a588d;
 }
 
