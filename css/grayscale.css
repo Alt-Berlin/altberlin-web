@@ -310,6 +310,12 @@ a:focus {
     font-weight: 400;
 }
 
+@media(min-width:768px) {
+	.form-fixed-width {
+		width: 300px;
+	}
+}
+
 .banner-social-buttons {
     margin-top: 0;
 }
